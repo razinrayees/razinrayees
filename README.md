@@ -10,5 +10,5 @@ Hi there 👋. I’m Razin Rayees, A student with a deep curiosity about the wor
 
 ## Get in touch :coffee:
 
-- [Personal Blog](razin.in)
+- [Personal Blog](https://razin.in/)
 - [LinkedIn](https://www.linkedin.com/in/razinrayees)
