@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/razinrayees/razinrayees/master/banner.png" alt="Hello world">
+<a href="razin.in"><img src="https://raw.githubusercontent.com/razinrayees/razinrayees/master/banner.png" alt="Hello world"></a>
 
 ## About me
 
