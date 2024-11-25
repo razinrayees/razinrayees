@@ -9,5 +9,4 @@ Hi there 👋. I’m Razin Rayees, A student with a deep curiosity about the wor
 
 ## Get in touch :coffee:
 
-- [Personal Website](https://razin.in/)
 - [LinkedIn](https://www.linkedin.com/in/razinrayees)
